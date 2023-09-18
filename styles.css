@@ -19,3 +19,4 @@ body, html {
     width: 200px;
     height: 200px;
     transform-style: preserve-3d;
+    animation: rotate 20s linear infinite, changeColor 10s linear infinite;
