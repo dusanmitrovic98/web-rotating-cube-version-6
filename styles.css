@@ -2,3 +2,4 @@ body, html {
     background-color: #111;
     height: 100%;
     margin: 0;
+    overflow: hidden;
