@@ -26,3 +26,4 @@ body, html {
     width: 200px;
     height: 200px;
     position: absolute;
+    background: linear-gradient(45deg, #ff00ff, #00ffff);
